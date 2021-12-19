@@ -1,5 +1,6 @@
 # git_test_repo_mjk
-githut 사용법 초기 리포짓토리 생성 방법
+githut 사용법
+## 초기 리포짓토리 생성 방법
 echo "# git_test_repo_mjk" >> README.md
 git init
 git add README.md
