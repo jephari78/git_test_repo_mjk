@@ -14,3 +14,5 @@ push an existing repository from the command line
 git remote add origin https://github.com/jephari78/git_test_repo_mjk.git
 git branch -M main
 git push -u origin main
+
+마스터로 올라가는구나~~~
